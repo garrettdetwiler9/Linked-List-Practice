@@ -1,0 +1,5 @@
+insertLast() gives: 1, 2, 3, 4, 5
+removeLast() gives: 6, 5, 4
+copy() gives: 6, 5, 4
+join() gives: 6, 5, 4, 6, 5, 4
+intersect() gives: 4, 5
